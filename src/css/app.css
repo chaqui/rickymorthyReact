@@ -1,0 +1,15 @@
+.header{
+  display: flex;
+  justify-content: center;
+}
+ul{
+  list-style:none;
+  display: flex;
+}
+.rick
+{
+  background-color:#32304D;
+}
+.btn{
+  margin: 0 auto;
+}
